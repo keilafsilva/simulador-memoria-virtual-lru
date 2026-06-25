@@ -1,0 +1,1 @@
+# simulador-memoria-virtual-lru
